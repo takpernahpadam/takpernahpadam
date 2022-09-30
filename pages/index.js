@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@takpernahpadam 
+takpernahpadam
+/
+takpernahpadam
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+takpernahpadam/pages/index.js /
+@takpernahpadam
+takpernahpadam Update index.js
+Latest commit 8a870e1 1 minute ago
+ History
+ 2 contributors
+@cassidoo@takpernahpadam
+327 lines (315 sloc)  34.1 KB
+
 
 <!doctype html>
 <html amp lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
@@ -325,3 +355,18 @@
 </body>
 </html>
 </html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+takpernahpadam/index.js at main · takpernahpadam/takpernahpadam
